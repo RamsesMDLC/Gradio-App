@@ -22,9 +22,6 @@ These snippets are designed for quick experimentation in **Google Colab** or a l
 * [How to Run](#how-to-run)
 * [Tests Overview](#tests-overview)
 * [Using the `/predict` API Endpoint](#using-the-predict-api-endpoint)
-* [Notes and Known Issues](#notes-and-known-issues)
-* [License](#license)
-
 ---
 
 ## Project Structure
